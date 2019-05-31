@@ -1,4 +1,6 @@
-* [Dave Mulley](https://w3.ibm.com/bluepages/profile.html?uid=2D2058897) 
+### List of instructors with links to Blue Pages
+
+[Dave Mulley](https://w3.ibm.com/bluepages/profile.html?uid=2D2058897) 
 * Colin Henderson 
 * John Abbott 
 * John Webb 
