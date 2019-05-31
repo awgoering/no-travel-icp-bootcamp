@@ -1,11 +1,15 @@
-Overview
+###Overview
 
-How to:
+###How to:
 
-Assets:
+###Assets:
 
-Agenda
+###Agenda
 
-Dynamic Learning Platform
+###Dynamic Learning Platform
 
-SODA 
+###SODA
+
+###Instructor Pool
+
+This is a [link to the current list of instructors.](https://github.com/awgoering/no-travel-icp-bootcamp/blob/master/instructor-pool.md)
