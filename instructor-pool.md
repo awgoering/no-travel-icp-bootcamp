@@ -1,6 +1,6 @@
-Dave Mulley 
-Colin Henderson 
-John Abbott 
+* Dave Mulley 
+* Colin Henderson 
+* John Abbott 
 John Webb 
 Brian Zied 
 Tom Campbell
