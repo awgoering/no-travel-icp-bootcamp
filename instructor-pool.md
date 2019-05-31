@@ -1,15 +1,15 @@
-* Dave Mulley 
+* [Dave Mulley](https://w3.ibm.com/bluepages/profile.html?uid=2D2058897) 
 * Colin Henderson 
 * John Abbott 
-John Webb 
-Brian Zied 
-Tom Campbell
-Eric Cattoir
-Georgios Raptis 
-Amine Anouja 
-Pete Van SickeL
-Jagdish Komakula 
-Aditya Phatak 
-Carlos Johnson
-Jacky Huang 
-Jonathan Goldsworthy
+* John Webb 
+* Brian Zied 
+* Tom Campbell
+* Eric Cattoir
+* Georgios Raptis 
+* Amine Anouja 
+* Pete Van SickeL
+* Jagdish Komakula 
+* Aditya Phatak 
+* Carlos Johnson
+* Jacky Huang 
+* Jonathan Goldsworthy
