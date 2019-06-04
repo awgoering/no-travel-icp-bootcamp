@@ -20,7 +20,7 @@ This is a sample agenda from a business partner delivery in May 2019.  This agen
 
 The agenda template can be used to create an agenda for a new/existing bootcamp. Copy and rename the .md file.  Make adjustments to the module names, lab names, presentor name(s), notes and day themes. 
 
-Here is the link to the [agenda template]()
+Here is the link to the [agenda template](https://github.com/awgoering/no-travel-icp-bootcamp/blob/master/agenda-template.md)
 
 ## Dynamic Learning Platform
 
