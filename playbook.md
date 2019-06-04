@@ -18,6 +18,10 @@ This is a sample agenda from a business partner delivery in May 2019.  This agen
 
 ### Agenda Template
 
+The agenda template can be used to create an agenda for a new/existing bootcamp. Copy and rename the .md file.  Make adjustments to the module names, lab names, presentor name(s), notes and day themes. 
+
+Here is the link to the [agenda template]()
+
 ## Dynamic Learning Platform
 
 ## SODA
