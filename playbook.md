@@ -10,6 +10,14 @@ Students register for the class through Skills Gateway and commit, just as they 
 
 ### Agenda
 
+The agenda can be 
+
+## Sample Agenda
+
+This is a sample agenda from a business partner delivery in May 2019.  This agenda had a large percentage of live sessions, with just a few recordings and readings.  Here is the link to the [sample agenda]()
+
+## Agenda Template
+
 ### Dynamic Learning Platform
 
 ### SODA
