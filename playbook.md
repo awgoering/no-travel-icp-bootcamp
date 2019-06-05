@@ -12,7 +12,7 @@ Students register for the class through Skills Gateway and commit, just as they 
 
 This section will describe the process to build, publish and publicize a blended "no travel required" bootcamp. 
 
-## Assets
+## Course Assets
 
 ### IBM-only presentations
 
@@ -64,8 +64,6 @@ These readings can be added to the agenda as supplemental reading or used as a s
 * [Explore application modernization](https://www.ibm.com/cloud/garage/content/course/explore-application-modernization/0)
 * [Modernize your application](https://www.ibm.com/cloud/garage/architectures/application-modernization)
 * [Application Modernization Field Guide](https://www.ibm.com/cloud/garage/content/field-guide/app-modernization-field-guide/)
-
-
 
 ## Agenda
 
