@@ -8,6 +8,15 @@ Students register for the class through Skills Gateway and commit, just as they 
 
 ## Assets:
 
+### IBM-only presentations
+### Public facing presentations
+### Lab exercises
+### Recordings
+* iCAM
+* ICP Networking
+* ICP Overview
+### Readings
+
 ## Agenda
 
 The agenda can be 
