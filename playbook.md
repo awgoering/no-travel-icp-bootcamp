@@ -43,7 +43,7 @@ There are [recordings available](https://ibm.box.com/s/pf3j6l2v8uop4ybjtyq2ciu3e
 * Creating a Helm chart
 * ICP Storage considerations
 
-### Readings
+### Readings ![alt text](https://github.com/awgoering/no-travel-icp-bootcamp/blob/master/images/Readings.PNG "This stuff will make you smarter")
 
 #### Foundational
 * [Kubernetes 101](https://www.ibm.com/cloud/garage/content/course/kubernetes-101/0)
