@@ -8,9 +8,11 @@ Mixed/blended delivery for a virtualized IBM Hybrid Cloud Administration Bootcam
 
 Students register for the class through Skills Gateway and commit, just as they would commit to a classroom delivery. Content covered in 2-3 hour blocks for 5-10 days.  Labs available for 10 days.  Students must complete required elements such as sessions, readings, lab exercises and quizzes to earn badge.  Completion of these elements can be tracked and reported by Moodle.
 
-## How to:
+## How to build, publish and publicize
 
-## Assets:
+This section will describe the process to build, publish and publicize a blended "no travel required" bootcamp. 
+
+## Assets
 
 ### IBM-only presentations
 
