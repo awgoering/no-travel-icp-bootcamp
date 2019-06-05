@@ -51,6 +51,8 @@ There are [recordings available](https://ibm.box.com/s/pf3j6l2v8uop4ybjtyq2ciu3e
 * [Helm](https://www.ibm.com/cloud/garage/content/course/helm-fundamentals/0) 
 
 #### Architecture
+* [IBM Cloud Private](https://www.ibm.com/cloud/garage/architectures/private-cloud) - Private Cloud section only!
+* [IBM Cloud Private Field Guide](https://www.ibm.com/cloud/garage/content/field-guide/private-cloud-field-guide)
 
 #### ICP concepts
 * [ICP Resilience](https://www.ibm.com/cloud/garage/content/course/ibm-cloud-private-resilience/0)
@@ -63,7 +65,7 @@ There are [recordings available](https://ibm.box.com/s/pf3j6l2v8uop4ybjtyq2ciu3e
 
 ## Agenda
 
-The agenda can be 
+The agenda can be ........................................... 
 
 ### Sample Agenda
 
