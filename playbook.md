@@ -45,6 +45,11 @@ There are [recordings available](https://ibm.box.com/s/pf3j6l2v8uop4ybjtyq2ciu3e
 
 ### Readings
 
+#### Foundational
+* [Kubernetes 101](https://www.ibm.com/cloud/garage/content/course/kubernetes-101/0)
+* [Containers and Docker](https://www.ibm.com/cloud/garage/content/course/containers-and-docker/0)
+* [Helm](https://www.ibm.com/cloud/garage/content/course/helm-fundamentals/0) 
+
 ## Agenda
 
 The agenda can be 
