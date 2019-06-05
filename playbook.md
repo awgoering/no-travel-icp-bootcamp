@@ -81,6 +81,8 @@ Here is the link to the [agenda template](https://github.com/awgoering/no-travel
 
 ## Dynamic Learning Platform
 
+[Link to a model or template for our course.](https://www.onlinedigitallearning.com/course/view.php?id=3279)  
+
 ## SODA
 
 The SODA (Services Offering Directory Application) offering can be found [here](https://soda.w3ibm.mybluemix.net/show/1136). You should contact the Offering Manager listed on the offering sheet.  
