@@ -9,8 +9,17 @@ Students register for the class through Skills Gateway and commit, just as they 
 ## Assets:
 
 ### IBM-only presentations
+
+Instructors should use [these presentations](https://github.ibm.com/CASE/cloud-private-bootcamp/tree/master/Unit-Presentations) when delivering this bootcamp.  These are the PowerPoint versions and have been maintained and updated. 
+
 ### Public facing presentations
+
+Instructors can distribute [these PDFs](https://github.com/ibm-cloud-architecture/icp-admin-bootcamp/tree/master/unit-presentations) to students.
+
 ### Lab exercises
+
+Students should be directed to [this location](https://github.com/ibm-cloud-architecture/icp-admin-bootcamp/tree/master/labs) for the student lab exercises. 
+
 ### Recordings
 
 There are [recordings available](https://ibm.box.com/s/pf3j6l2v8uop4ybjtyq2ciu3eux7rl9o) for the following agenda topics:
