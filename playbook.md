@@ -60,6 +60,8 @@ There are [recordings available](https://ibm.box.com/s/pf3j6l2v8uop4ybjtyq2ciu3e
 
 #### Application Modernization
 * [Explore application modernization](https://www.ibm.com/cloud/garage/content/course/explore-application-modernization/0)
+* [Modernize your application](https://www.ibm.com/cloud/garage/architectures/application-modernization)
+* [Application Modernization Field Guide](https://www.ibm.com/cloud/garage/content/field-guide/app-modernization-field-guide/)
 
 
 
