@@ -61,7 +61,7 @@ Here is the link to the [agenda template](https://github.com/awgoering/no-travel
 
 ## SODA
 
-The SODA offering can be found [here](https://soda.w3ibm.mybluemix.net/show/1136). You should contact the Offering Manager listed on the offering sheet.  
+The SODA (Services Offering Directory Application) offering can be found [here](https://soda.w3ibm.mybluemix.net/show/1136). You should contact the Offering Manager listed on the offering sheet.  
 
 ## Instructor Pool
 
