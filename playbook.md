@@ -1,3 +1,7 @@
+# "No Travel Required" IBM Cloud Private Bootcamp
+
+![alt text](https://github.com/awgoering/no-travel-icp-bootcamp/images/Weary Traveler.PNG "Logo Title Text 1")
+
 ## Overview
 
 Mixed/blended delivery for a virtualized IBM Hybrid Cloud Administration Bootcamp.  Mix of live sessions with SMEs, recorded sessions, recorded demonstrations, required readings, lab exercises, checkpoints, and final test/quiz.  The content covered would be equivalent to the content in the instructor-lead IBM Hybrid Cloud Administration Bootcamp. 
