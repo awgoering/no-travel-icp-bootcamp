@@ -1,6 +1,6 @@
 # "No Travel Required" IBM Cloud Private Bootcamp
 
-![alt text](https://github.com/awgoering/no-travel-icp-bootcamp/images/WearyTraveler.PNG "Logo Title Text 1")
+![alt text](https://github.com/awgoering/no-travel-icp-bootcamp/blob/master/images/WearyTraveler.PNG "Logo Title Text 1")
 
 ## Overview
 
