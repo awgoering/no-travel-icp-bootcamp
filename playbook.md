@@ -12,9 +12,22 @@ Students register for the class through Skills Gateway and commit, just as they 
 ### Public facing presentations
 ### Lab exercises
 ### Recordings
-* iCAM
+
+There are [recordings available](https://ibm.box.com/s/pf3j6l2v8uop4ybjtyq2ciu3eux7rl9o) for the following agenda topics:
+* Introduction and demo for Multicloud Manager
+* Introduction to DevOps and CI/CD
+* Introduction and demo for iCAM
+* Logging and Monitoring
+* Cloud Automation Manager
+* IBM Cloud Cost and Asset Management
 * ICP Networking
 * ICP Overview
+* ICP Security
+* Kubernetes resilience
+* Helm Basics
+* Creating a Helm chart
+* ICP Storage considerations
+
 ### Readings
 
 ## Agenda
