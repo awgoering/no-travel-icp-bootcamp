@@ -43,7 +43,9 @@ There are [recordings available](https://ibm.box.com/s/pf3j6l2v8uop4ybjtyq2ciu3e
 * Creating a Helm chart
 * ICP Storage considerations
 
-### Readings ![alt text](https://github.com/awgoering/no-travel-icp-bootcamp/blob/master/images/Readings.PNG "This stuff will make you smarter")
+### Readings 
+
+These readings can be added to the agenda as supplemental reading or used as a substitute for a presentation/recording. They can also be listed in the references section of the course. 
 
 #### Foundational
 * [Kubernetes 101](https://www.ibm.com/cloud/garage/content/course/kubernetes-101/0)
