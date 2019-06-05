@@ -50,6 +50,17 @@ There are [recordings available](https://ibm.box.com/s/pf3j6l2v8uop4ybjtyq2ciu3e
 * [Containers and Docker](https://www.ibm.com/cloud/garage/content/course/containers-and-docker/0)
 * [Helm](https://www.ibm.com/cloud/garage/content/course/helm-fundamentals/0) 
 
+#### Architecture
+
+#### ICP concepts
+* [ICP Resilience](https://www.ibm.com/cloud/garage/content/course/ibm-cloud-private-resilience/0)
+* [ICP Persistent Storage](https://www.ibm.com/cloud/garage/content/course/ibm-cloud-private-persistent-storage/0)
+
+#### Application Modernization
+* [Explore application modernization](https://www.ibm.com/cloud/garage/content/course/explore-application-modernization/0)
+
+
+
 ## Agenda
 
 The agenda can be 
